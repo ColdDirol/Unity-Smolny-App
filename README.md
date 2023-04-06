@@ -11,7 +11,7 @@ Hello! We are a team of developers from ITMO University. At the moment we are de
 * [Yana Bubnova](https://github.com/latuapaura) - designer
 * [Maria Kobzar](https://github.com/marakobz) - content maker
 * [Kartashev Vladimir](https://github.com/ColdDirol) - developer
-* Radaev Nikita - technical writer
+* [Radaev Nikita](https://github.com/RaddNik2004) - technical writer
 
 We would like to thank Galina Zhirkova, Candidate of Pedagogical Sciences, project leader, for her help in gathering information and to thank the Smolny Institute for its consultation and for providing us with additional information.
 
