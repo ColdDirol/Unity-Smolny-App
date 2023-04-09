@@ -16,3 +16,6 @@ Hello! We are a team of developers from ITMO University. At the moment we are de
 We would like to thank Galina Zhirkova, Candidate of Pedagogical Sciences, project leader, for her help in gathering information and to thank the Smolny Institute for its consultation and for providing us with additional information.
 
 ###### Waving to anyone interested in our project!
+
+![screenshot1.png](https://github.com/ColdDirol/Unity-Smolny-App/blob/main/img/111.png)
+![screenshot2.png](https://github.com/ColdDirol/Unity-Smolny-App/blob/main/img/222.png)
