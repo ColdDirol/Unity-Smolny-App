@@ -9,7 +9,7 @@ Hello! We are a team of developers from ITMO University. At the moment we are de
 
 ### Our team:
 * [Yana Bubnova](https://github.com/latuapaura) - designer
-* [Maria Kobzar](https://github.com/marakobz) - content maker
+* [Maria Kobzar](https://github.com/marakkk) - content maker
 * [Kartashev Vladimir](https://github.com/ColdDirol) - developer
 * [Radaev Nikita](https://github.com/RaddNik2004) - technical writer
 
